@@ -1,0 +1,68 @@
+code,country,item_price,item_currency,item_price_usd
+ID,Indonesia,10000.0,IDR,0.61
+BR,Brazil,3.9,BRL,0.67
+IN,India,59.0,INR,0.68
+VN,Vietnam,18000.0,VND,0.71
+KZ,Kazakhstan,400.0,KZT,0.82
+MY,Malaysia,3.9,MYR,0.88
+MX,Mexico,18.0,MXN,0.89
+CO,Colombia,3900.0,COP,0.93
+PH,Philippines,59.0,PHP,1.03
+CL,Chile,990.0,CLP,1.05
+PE,Peru,3.9,PEN,1.06
+ZA,South Africa,19.99,ZAR,1.1
+TH,Thailand,39.0,THB,1.16
+KR,"Korea, Republic of",2200.0,KRW,1.51
+TW,Taiwan,60.0,TWD,1.82
+AU,Australia,2.99,AUD,1.88
+PY,Paraguay,15000.0,PYG,1.89
+IL,Israel,6.9,ILS,1.89
+JP,Japan,280.0,JPY,1.89
+CA,Canada,2.79,CAD,1.94
+JO,Jordan,1.4,JOD,1.97
+NZ,New Zealand,3.49,NZD,1.99
+AE,United Arab Emirates,7.49,AED,2.04
+QA,Qatar,7.49,QAR,2.06
+MA,Morocco,19.99,MAD,2.06
+HK,Hong Kong,16.0,HKD,2.06
+CZ,Czech Republic,49.0,CZK,2.14
+RO,Romania,9.99,RON,2.19
+BG,Bulgaria,3.99,BGN,2.22
+TZ,"Tanzania, United Republic of",5900.0,TZS,2.23
+SG,Singapore,2.98,SGD,2.24
+CH,Switzerland,2.0,CHF,2.27
+NO,Norway,25.0,NOK,2.34
+HR,Croatia,2.19,EUR,2.39
+FR,France,2.19,EUR,2.39
+IE,Ireland,2.19,EUR,2.39
+FI,Finland,2.19,EUR,2.39
+ES,Spain,2.19,EUR,2.39
+GA,Gabon,2.19,EUR,2.39
+LU,Luxembourg,2.19,EUR,2.39
+EE,Estonia,2.19,EUR,2.39
+DE,Germany,2.19,EUR,2.39
+LT,Lithuania,2.19,EUR,2.39
+LV,Latvia,2.19,EUR,2.39
+IT,Italy,2.19,EUR,2.39
+IS,Iceland,2.19,EUR,2.39
+GW,Guinea-Bissau,2.19,EUR,2.39
+NE,Niger,2.19,EUR,2.39
+ME,Montenegro,2.19,EUR,2.39
+NL,Netherlands,2.19,EUR,2.39
+BF,Burkina Faso,2.19,EUR,2.39
+GR,Greece,2.19,EUR,2.39
+RS,Serbia,2.19,EUR,2.39
+SI,Slovenia,2.19,EUR,2.39
+PT,Portugal,2.19,EUR,2.39
+BE,Belgium,2.19,EUR,2.39
+AT,Austria,2.19,EUR,2.39
+BJ,Benin,2.19,EUR,2.39
+CY,Cyprus,2.19,EUR,2.39
+MT,Malta,2.19,EUR,2.39
+SK,Slovakia,2.19,EUR,2.39
+KE,Kenya,310.0,KES,2.4
+GB,United Kingdom,1.99,GBP,2.57
+PL,Poland,9.99,PLN,2.6
+DK,Denmark,18.0,DKK,2.64
+SE,Sweden,27.0,SEK,2.69
+HU,Hungary,999.0,HUF,2.71
