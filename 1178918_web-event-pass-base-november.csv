@@ -17,50 +17,48 @@ JP,Japan,1120.0,JPY,7.36
 CA,Canada,10.99,CAD,7.86
 JO,Jordan,5.65,JOD,7.97
 HK,Hong Kong,62.0,HKD,7.98
-TZ,"Tanzania, United Republic of",7.99,USD,7.99
 NZ,New Zealand,13.99,NZD,8.07
-AE,United Arab Emirates,29.99,AED,8.17
 TW,Taiwan,250.0,TWD,8.17
+AE,United Arab Emirates,29.99,AED,8.17
 QA,Qatar,29.99,QAR,8.22
-PY,Paraguay,60000.0,PYG,8.45
 SG,Singapore,10.98,SGD,8.48
 AU,Australia,12.99,AUD,8.52
 MA,Morocco,79.99,MAD,8.66
 RO,Romania,39.99,RON,9.16
 IL,Israel,29.9,ILS,9.19
-KE,Kenya,1200.0,KES,9.29
 CZ,Czech Republic,199.0,CZK,9.52
 NO,Norway,99.0,NOK,9.9
 CH,Switzerland,8.0,CHF,10.06
 BG,Bulgaria,16.99,BGN,10.11
-AT,Austria,8.99,EUR,10.46
-IE,Ireland,8.99,EUR,10.46
-BF,Burkina Faso,8.99,EUR,10.46
-MT,Malta,8.99,EUR,10.46
-ME,Montenegro,8.99,EUR,10.46
-EE,Estonia,8.99,EUR,10.46
-LV,Latvia,8.99,EUR,10.46
-LU,Luxembourg,8.99,EUR,10.46
-DE,Germany,8.99,EUR,10.46
-NL,Netherlands,8.99,EUR,10.46
-BJ,Benin,8.99,EUR,10.46
-CY,Cyprus,8.99,EUR,10.46
-IS,Iceland,8.99,EUR,10.46
-LT,Lithuania,8.99,EUR,10.46
-IT,Italy,8.99,EUR,10.46
-NE,Niger,8.99,EUR,10.46
-SI,Slovenia,8.99,EUR,10.46
-FR,France,8.99,EUR,10.46
 HR,Croatia,8.99,EUR,10.46
-GA,Gabon,8.99,EUR,10.46
 ES,Spain,8.99,EUR,10.46
+MT,Malta,8.99,EUR,10.46
+EE,Estonia,8.99,EUR,10.46
+IE,Ireland,8.99,EUR,10.46
+IT,Italy,8.99,EUR,10.46
+LU,Luxembourg,8.99,EUR,10.46
+CY,Cyprus,8.99,EUR,10.46
+LT,Lithuania,8.99,EUR,10.46
 FI,Finland,8.99,EUR,10.46
-RS,Serbia,8.99,EUR,10.46
-PT,Portugal,8.99,EUR,10.46
+LV,Latvia,8.99,EUR,10.46
+IS,Iceland,8.99,EUR,10.46
+DE,Germany,8.99,EUR,10.46
 GW,Guinea-Bissau,8.99,EUR,10.46
+NE,Niger,8.99,EUR,10.46
+FR,France,8.99,EUR,10.46
+GA,Gabon,8.99,EUR,10.46
+NL,Netherlands,8.99,EUR,10.46
+PT,Portugal,8.99,EUR,10.46
+GR,Greece,8.99,EUR,10.46
+BA,Bosnia and Herzegovina,8.99,EUR,10.46
+RS,Serbia,8.99,EUR,10.46
 BE,Belgium,8.99,EUR,10.46
 SK,Slovakia,8.99,EUR,10.46
-GR,Greece,8.99,EUR,10.46
+AT,Austria,8.99,EUR,10.46
+BF,Burkina Faso,8.99,EUR,10.46
+BJ,Benin,8.99,EUR,10.46
+ME,Montenegro,8.99,EUR,10.46
+SI,Slovenia,8.99,EUR,10.46
 SE,Sweden,99.0,SEK,10.55
 GB,United Kingdom,7.99,GBP,10.59
 PL,Poland,39.99,PLN,10.99

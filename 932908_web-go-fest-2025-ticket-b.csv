@@ -1,68 +1,66 @@
 code,country,item_price,item_currency,item_price_usd
-ID,Indonesia,76000.0,IDR,4.54
-BR,Brazil,28.9,BRL,5.05
-IN,India,439.0,INR,5.13
-VN,Vietnam,137000.0,VND,5.34
-KZ,Kazakhstan,3000.0,KZT,5.96
-MY,Malaysia,28.9,MYR,6.52
-MX,Mexico,139.0,MXN,6.77
-CO,Colombia,28900.0,COP,6.9
-PH,Philippines,439.0,PHP,7.66
+ID,Indonesia,76000.0,IDR,4.58
+IN,India,439.0,INR,4.97
+VN,Vietnam,137000.0,VND,5.2
+BR,Brazil,28.9,BRL,5.38
+KZ,Kazakhstan,3000.0,KZT,5.58
+MY,Malaysia,28.9,MYR,6.89
+PH,Philippines,439.0,PHP,7.41
+CO,Colombia,28900.0,COP,7.49
+MX,Mexico,139.0,MXN,7.55
 CL,Chile,7390.0,CLP,7.86
-PE,Peru,28.9,PEN,7.86
-ZA,South Africa,149.99,ZAR,8.18
-TH,Thailand,290.0,THB,8.49
-KR,"Korea, Republic of",16600.0,KRW,11.28
-PY,Paraguay,112000.0,PYG,14.02
-JP,Japan,2100.0,JPY,14.06
-AU,Australia,22.99,AUD,14.38
-IL,Israel,53.9,ILS,14.57
-CA,Canada,20.99,CAD,14.58
-TW,Taiwan,490.0,TWD,14.74
-NZ,New Zealand,25.99,NZD,14.76
+PE,Peru,28.9,PEN,8.53
+ZA,South Africa,149.99,ZAR,8.71
+TH,Thailand,290.0,THB,8.95
+KR,"Korea, Republic of",16600.0,KRW,11.56
+JP,Japan,2100.0,JPY,13.8
 AE,United Arab Emirates,54.99,AED,14.97
+NZ,New Zealand,25.99,NZD,14.99
+CA,Canada,20.99,CAD,15.01
 JO,Jordan,10.65,JOD,15.02
-QA,Qatar,54.99,QAR,15.07
-TZ,"Tanzania, United Republic of",39900.0,TZS,15.11
-HK,Hong Kong,118.0,HKD,15.16
-MA,Morocco,149.99,MAD,15.55
-SG,Singapore,21.98,SGD,16.36
-BG,Bulgaria,29.99,BGN,16.57
-CH,Switzerland,15.0,CHF,16.98
-NO,Norway,179.0,NOK,17.1
-CZ,Czech Republic,399.0,CZK,17.23
-RO,Romania,79.99,RON,17.33
-ES,Spain,16.49,EUR,17.78
-EE,Estonia,16.49,EUR,17.78
-DE,Germany,16.49,EUR,17.78
-LT,Lithuania,16.49,EUR,17.78
-NL,Netherlands,16.49,EUR,17.78
-LV,Latvia,16.49,EUR,17.78
-MT,Malta,16.49,EUR,17.78
-FI,Finland,16.49,EUR,17.78
-ME,Montenegro,16.49,EUR,17.78
-NE,Niger,16.49,EUR,17.78
-CY,Cyprus,16.49,EUR,17.78
-GR,Greece,16.49,EUR,17.78
-LU,Luxembourg,16.49,EUR,17.78
-IE,Ireland,16.49,EUR,17.78
-IT,Italy,16.49,EUR,17.78
-IS,Iceland,16.49,EUR,17.78
-GW,Guinea-Bissau,16.49,EUR,17.78
-AT,Austria,16.49,EUR,17.78
-FR,France,16.49,EUR,17.78
-SK,Slovakia,16.49,EUR,17.78
-SI,Slovenia,16.49,EUR,17.78
-BE,Belgium,16.49,EUR,17.78
-RS,Serbia,16.49,EUR,17.78
-BF,Burkina Faso,16.49,EUR,17.78
-PT,Portugal,16.49,EUR,17.78
-GA,Gabon,16.49,EUR,17.78
-BJ,Benin,16.49,EUR,17.78
-HR,Croatia,16.49,EUR,17.78
-KE,Kenya,2300.0,KES,17.79
-GB,United Kingdom,14.99,GBP,19.32
-SE,Sweden,199.0,SEK,19.84
-HU,Hungary,7490.0,HUF,20.05
-DK,Denmark,139.0,DKK,20.1
-PL,Poland,79.99,PLN,20.61
+AU,Australia,22.99,AUD,15.08
+QA,Qatar,54.99,QAR,15.08
+HK,Hong Kong,118.0,HKD,15.19
+TW,Taiwan,490.0,TWD,16.0
+MA,Morocco,149.99,MAD,16.24
+IL,Israel,53.9,ILS,16.56
+SG,Singapore,21.98,SGD,16.97
+BG,Bulgaria,29.99,BGN,17.85
+NO,Norway,179.0,NOK,17.9
+RO,Romania,79.99,RON,18.31
+CH,Switzerland,15.0,CHF,18.86
+CZ,Czech Republic,399.0,CZK,19.09
+FR,France,16.49,EUR,19.19
+GA,Gabon,16.49,EUR,19.19
+GR,Greece,16.49,EUR,19.19
+ME,Montenegro,16.49,EUR,19.19
+HR,Croatia,16.49,EUR,19.19
+GW,Guinea-Bissau,16.49,EUR,19.19
+BJ,Benin,16.49,EUR,19.19
+CY,Cyprus,16.49,EUR,19.19
+IT,Italy,16.49,EUR,19.19
+FI,Finland,16.49,EUR,19.19
+LT,Lithuania,16.49,EUR,19.19
+LU,Luxembourg,16.49,EUR,19.19
+IE,Ireland,16.49,EUR,19.19
+ES,Spain,16.49,EUR,19.19
+BE,Belgium,16.49,EUR,19.19
+DE,Germany,16.49,EUR,19.19
+NE,Niger,16.49,EUR,19.19
+NL,Netherlands,16.49,EUR,19.19
+BF,Burkina Faso,16.49,EUR,19.19
+EE,Estonia,16.49,EUR,19.19
+BA,Bosnia and Herzegovina,16.49,EUR,19.19
+RS,Serbia,16.49,EUR,19.19
+LV,Latvia,16.49,EUR,19.19
+SK,Slovakia,16.49,EUR,19.19
+AT,Austria,16.49,EUR,19.19
+PT,Portugal,16.49,EUR,19.19
+MT,Malta,16.49,EUR,19.19
+IS,Iceland,16.49,EUR,19.19
+SI,Slovenia,16.49,EUR,19.19
+GB,United Kingdom,14.99,GBP,19.87
+SE,Sweden,199.0,SEK,21.2
+DK,Denmark,139.0,DKK,21.66
+PL,Poland,79.99,PLN,21.99
+HU,Hungary,7490.0,HUF,22.45
