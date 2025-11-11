@@ -1,0 +1,26 @@
+code,country,item_price,item_currency,item_price_usd
+VN,Vietnam,109000.0,VND,4.14
+MY,Malaysia,22.9,MYR,5.53
+MX,Mexico,109.0,MXN,5.94
+PH,Philippines,350.0,PHP,5.94
+PE,Peru,22.9,PEN,6.8
+ZA,South Africa,119.99,ZAR,6.99
+TH,Thailand,230.0,THB,7.11
+NZ,New Zealand,19.99,NZD,11.32
+QA,Qatar,44.99,QAR,12.31
+TW,Taiwan,390.0,TWD,12.58
+MA,Morocco,119.99,MAD,12.94
+SG,Singapore,16.98,SGD,13.06
+RO,Romania,59.99,RON,13.69
+NO,Norway,149.0,NOK,14.82
+SK,Slovakia,12.99,EUR,15.07
+SI,Slovenia,12.99,EUR,15.07
+LV,Latvia,12.99,EUR,15.07
+PT,Portugal,12.99,EUR,15.07
+NL,Netherlands,12.99,EUR,15.07
+NE,Niger,12.99,EUR,15.07
+MT,Malta,12.99,EUR,15.07
+ME,Montenegro,12.99,EUR,15.07
+RS,Serbia,12.99,EUR,15.07
+PL,Poland,59.99,PLN,16.45
+SE,Sweden,159.0,SEK,16.82
