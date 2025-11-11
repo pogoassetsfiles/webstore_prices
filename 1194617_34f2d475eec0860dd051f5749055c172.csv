@@ -2,10 +2,13 @@ code,country,item_price,item_currency,item_price_usd
 ID,Indonesia,66000.0,IDR,3.95
 IN,India,379.0,INR,4.29
 VN,Vietnam,118000.0,VND,4.48
+BR,Brazil,24.9,BRL,4.72
 KZ,Kazakhstan,2600.0,KZT,4.96
 MY,Malaysia,24.9,MYR,6.02
 PH,Philippines,380.0,PHP,6.45
 MX,Mexico,119.0,MXN,6.48
+CO,Colombia,25000.0,COP,6.64
+CL,Chile,6390.0,CLP,6.82
 PE,Peru,24.9,PEN,7.4
 ZA,South Africa,129.99,ZAR,7.58
 TH,Thailand,250.0,THB,7.72
@@ -14,30 +17,50 @@ JP,Japan,1820.0,JPY,11.84
 TW,Taiwan,390.0,TWD,12.58
 HK,Hong Kong,98.0,HKD,12.61
 JO,Jordan,9.1,JOD,12.83
+CA,Canada,17.99,CAD,12.84
 NZ,New Zealand,22.99,NZD,13.02
+AU,Australia,19.99,AUD,13.06
+AE,United Arab Emirates,47.99,AED,13.07
 QA,Qatar,47.99,QAR,13.13
 MA,Morocco,125.99,MAD,13.58
 SG,Singapore,17.98,SGD,13.83
 IL,Israel,45.9,ILS,14.26
 NO,Norway,159.0,NOK,15.82
 RO,Romania,69.99,RON,15.97
-MT,Malta,13.99,EUR,16.23
-NL,Netherlands,13.99,EUR,16.23
-GW,Guinea-Bissau,13.99,EUR,16.23
+BG,Bulgaria,26.99,BGN,15.97
+FR,France,13.99,EUR,16.23
 HR,Croatia,13.99,EUR,16.23
+FI,Finland,13.99,EUR,16.23
 IE,Ireland,13.99,EUR,16.23
-IS,Iceland,13.99,EUR,16.23
-IT,Italy,13.99,EUR,16.23
-LU,Luxembourg,13.99,EUR,16.23
-LT,Lithuania,13.99,EUR,16.23
+ES,Spain,13.99,EUR,16.23
 ME,Montenegro,13.99,EUR,16.23
-NE,Niger,13.99,EUR,16.23
+DE,Germany,13.99,EUR,16.23
+IT,Italy,13.99,EUR,16.23
+GW,Guinea-Bissau,13.99,EUR,16.23
+CY,Cyprus,13.99,EUR,16.23
+LT,Lithuania,13.99,EUR,16.23
+LU,Luxembourg,13.99,EUR,16.23
+EE,Estonia,13.99,EUR,16.23
 GR,Greece,13.99,EUR,16.23
-SK,Slovakia,13.99,EUR,16.23
-SI,Slovenia,13.99,EUR,16.23
-PT,Portugal,13.99,EUR,16.23
-RS,Serbia,13.99,EUR,16.23
+NL,Netherlands,13.99,EUR,16.23
+IS,Iceland,13.99,EUR,16.23
+BA,Bosnia and Herzegovina,13.99,EUR,16.23
+BJ,Benin,13.99,EUR,16.23
+NE,Niger,13.99,EUR,16.23
 LV,Latvia,13.99,EUR,16.23
+PT,Portugal,13.99,EUR,16.23
+AT,Austria,13.99,EUR,16.23
+BF,Burkina Faso,13.99,EUR,16.23
+RS,Serbia,13.99,EUR,16.23
+SI,Slovenia,13.99,EUR,16.23
+SK,Slovakia,13.99,EUR,16.23
+BE,Belgium,13.99,EUR,16.23
+MT,Malta,13.99,EUR,16.23
+GA,Gabon,13.99,EUR,16.23
+CH,Switzerland,13.0,CHF,16.26
+CZ,Czech Republic,349.0,CZK,16.68
+GB,United Kingdom,12.99,GBP,17.11
 SE,Sweden,169.0,SEK,17.87
+DK,Denmark,119.0,DKK,18.49
 PL,Poland,69.99,PLN,19.19
 HU,Hungary,6490.0,HUF,19.53
