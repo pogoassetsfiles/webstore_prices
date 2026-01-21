@@ -1,0 +1,67 @@
+code,country,item_price,item_currency,item_price_usd
+ID,Indonesia,41000.0,IDR,2.42
+IN,India,229.0,INR,2.5
+VN,Vietnam,73000.0,VND,2.78
+BR,Brazil,15.5,BRL,2.9
+KZ,Kazakhstan,1600.0,KZT,3.16
+MY,Malaysia,15.5,MYR,3.83
+PH,Philippines,235.0,PHP,3.97
+CO,Colombia,15500.0,COP,4.22
+MX,Mexico,74.0,MXN,4.23
+CL,Chile,3990.0,CLP,4.53
+PE,Peru,15.5,PEN,4.62
+ZA,South Africa,79.99,ZAR,4.91
+TH,Thailand,155.0,THB,4.99
+KR,"Korea, Republic of",8900.0,KRW,6.08
+JP,Japan,1120.0,JPY,7.09
+TW,Taiwan,250.0,TWD,7.91
+HK,Hong Kong,62.0,HKD,7.95
+JO,Jordan,5.65,JOD,7.97
+CA,Canada,10.99,CAD,7.97
+BG,Bulgaria,7.99,USD,7.99
+US,United States of America,7.99,USD,7.99
+AE,United Arab Emirates,29.99,AED,8.17
+NZ,New Zealand,13.99,NZD,8.2
+QA,Qatar,29.99,QAR,8.23
+SG,Singapore,10.98,SGD,8.57
+MA,Morocco,79.99,MAD,8.72
+AU,Australia,12.99,AUD,8.8
+RO,Romania,39.99,RON,9.21
+IL,Israel,29.9,ILS,9.42
+CZ,Czech Republic,199.0,CZK,9.59
+NO,Norway,99.0,NOK,9.98
+CH,Switzerland,8.0,CHF,10.12
+HR,Croatia,8.99,EUR,10.55
+FI,Finland,8.99,EUR,10.55
+IE,Ireland,8.99,EUR,10.55
+GA,Gabon,8.99,EUR,10.55
+EE,Estonia,8.99,EUR,10.55
+ES,Spain,8.99,EUR,10.55
+LU,Luxembourg,8.99,EUR,10.55
+CY,Cyprus,8.99,EUR,10.55
+LT,Lithuania,8.99,EUR,10.55
+FR,France,8.99,EUR,10.55
+LV,Latvia,8.99,EUR,10.55
+IT,Italy,8.99,EUR,10.55
+DE,Germany,8.99,EUR,10.55
+GW,Guinea-Bissau,8.99,EUR,10.55
+BJ,Benin,8.99,EUR,10.55
+ME,Montenegro,8.99,EUR,10.55
+PT,Portugal,8.99,EUR,10.55
+BE,Belgium,8.99,EUR,10.55
+BF,Burkina Faso,8.99,EUR,10.55
+GR,Greece,8.99,EUR,10.55
+SK,Slovakia,8.99,EUR,10.55
+BA,Bosnia and Herzegovina,8.99,EUR,10.55
+SI,Slovenia,8.99,EUR,10.55
+NE,Niger,8.99,EUR,10.55
+AT,Austria,8.99,EUR,10.55
+RS,Serbia,8.99,EUR,10.55
+MT,Malta,8.99,EUR,10.55
+IS,Iceland,8.99,EUR,10.55
+NL,Netherlands,8.99,EUR,10.55
+GB,United Kingdom,7.99,GBP,10.74
+SE,Sweden,99.0,SEK,10.92
+PL,Poland,39.99,PLN,11.11
+DK,Denmark,74.0,DKK,11.63
+HU,Hungary,3990.0,HUF,12.16
