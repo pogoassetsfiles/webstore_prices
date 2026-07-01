@@ -1,66 +1,67 @@
 code,country,item_price,item_currency,item_price_usd
 ID,Indonesia,41000.0,IDR,2.28
-IN,India,229.0,INR,2.43
-VN,Vietnam,73000.0,VND,2.77
-BR,Brazil,15.5,BRL,2.96
-KZ,Kazakhstan,1600.0,KZT,3.29
-MY,Malaysia,15.5,MYR,3.76
-PH,Philippines,235.0,PHP,3.84
-MX,Mexico,74.0,MXN,4.2
-CL,Chile,3990.0,CLP,4.35
-PE,Peru,15.5,PEN,4.53
-CO,Colombia,15500.0,COP,4.53
-TH,Thailand,155.0,THB,4.65
-ZA,South Africa,79.99,ZAR,4.85
-KR,"Korea, Republic of",8900.0,KRW,5.77
-JP,Japan,1120.0,JPY,6.92
+IN,India,229.0,INR,2.41
+VN,Vietnam,73000.0,VND,2.78
+BR,Brazil,15.5,BRL,2.98
+KZ,Kazakhstan,1600.0,KZT,3.34
+MY,Malaysia,15.5,MYR,3.79
+PH,Philippines,235.0,PHP,3.81
+MX,Mexico,74.0,MXN,4.22
+CL,Chile,3990.0,CLP,4.3
+CO,Colombia,15500.0,COP,4.52
+PE,Peru,15.5,PEN,4.54
+TH,Thailand,155.0,THB,4.64
+ZA,South Africa,79.99,ZAR,4.87
+KR,"Korea, Republic of",8900.0,KRW,5.71
+JP,Japan,1120.0,JPY,6.88
 CA,Canada,10.99,CAD,7.72
-TW,Taiwan,250.0,TWD,7.86
-NZ,New Zealand,13.99,NZD,7.9
-HK,Hong Kong,62.0,HKD,7.91
+TW,Taiwan,250.0,TWD,7.85
+HK,Hong Kong,62.0,HKD,7.9
+NZ,New Zealand,13.99,NZD,7.92
 JO,Jordan,5.65,JOD,7.97
 BG,Bulgaria,7.99,USD,7.99
 US,United States of America,7.99,USD,7.99
+AE,United Arab Emirates,29.99,AED,8.17
 QA,Qatar,29.99,QAR,8.22
 SG,Singapore,10.98,SGD,8.47
-MA,Morocco,79.99,MAD,8.49
-RO,Romania,39.99,RON,8.68
-AU,Australia,12.99,AUD,8.97
-CZ,Czech Republic,199.0,CZK,9.32
-CH,Switzerland,8.0,CHF,9.85
-NO,Norway,99.0,NOK,10.01
-IL,Israel,29.9,ILS,10.07
-SE,Sweden,99.0,SEK,10.16
-ES,Spain,8.99,EUR,10.21
-FI,Finland,8.99,EUR,10.21
-LV,Latvia,8.99,EUR,10.21
-FR,France,8.99,EUR,10.21
-GA,Gabon,8.99,EUR,10.21
-GR,Greece,8.99,EUR,10.21
-IS,Iceland,8.99,EUR,10.21
-HR,Croatia,8.99,EUR,10.21
-IE,Ireland,8.99,EUR,10.21
-EE,Estonia,8.99,EUR,10.21
-LT,Lithuania,8.99,EUR,10.21
-IT,Italy,8.99,EUR,10.21
-GW,Guinea-Bissau,8.99,EUR,10.21
-DE,Germany,8.99,EUR,10.21
-NL,Netherlands,8.99,EUR,10.21
-BJ,Benin,8.99,EUR,10.21
-NE,Niger,8.99,EUR,10.21
-ME,Montenegro,8.99,EUR,10.21
-RS,Serbia,8.99,EUR,10.21
-SI,Slovenia,8.99,EUR,10.21
-CY,Cyprus,8.99,EUR,10.21
-MT,Malta,8.99,EUR,10.21
-SK,Slovakia,8.99,EUR,10.21
-AT,Austria,8.99,EUR,10.21
-LU,Luxembourg,8.99,EUR,10.21
-BA,Bosnia and Herzegovina,8.99,EUR,10.21
-BE,Belgium,8.99,EUR,10.21
-BF,Burkina Faso,8.99,EUR,10.21
-PT,Portugal,8.99,EUR,10.21
-GB,United Kingdom,7.99,GBP,10.53
-PL,Poland,39.99,PLN,10.6
-DK,Denmark,74.0,DKK,11.24
-HU,Hungary,3990.0,HUF,12.77
+MA,Morocco,79.99,MAD,8.51
+RO,Romania,39.99,RON,8.69
+AU,Australia,12.99,AUD,8.95
+CZ,Czech Republic,199.0,CZK,9.33
+CH,Switzerland,8.0,CHF,9.86
+NO,Norway,99.0,NOK,9.96
+IL,Israel,29.9,ILS,10.02
+SE,Sweden,99.0,SEK,10.15
+RS,Serbia,8.99,EUR,10.22
+IS,Iceland,8.99,EUR,10.22
+EE,Estonia,8.99,EUR,10.22
+ME,Montenegro,8.99,EUR,10.22
+LV,Latvia,8.99,EUR,10.22
+LU,Luxembourg,8.99,EUR,10.22
+LT,Lithuania,8.99,EUR,10.22
+DE,Germany,8.99,EUR,10.22
+IT,Italy,8.99,EUR,10.22
+ES,Spain,8.99,EUR,10.22
+FI,Finland,8.99,EUR,10.22
+IE,Ireland,8.99,EUR,10.22
+FR,France,8.99,EUR,10.22
+GA,Gabon,8.99,EUR,10.22
+HR,Croatia,8.99,EUR,10.22
+MT,Malta,8.99,EUR,10.22
+NE,Niger,8.99,EUR,10.22
+SK,Slovakia,8.99,EUR,10.22
+PT,Portugal,8.99,EUR,10.22
+BE,Belgium,8.99,EUR,10.22
+BA,Bosnia and Herzegovina,8.99,EUR,10.22
+GW,Guinea-Bissau,8.99,EUR,10.22
+BF,Burkina Faso,8.99,EUR,10.22
+AT,Austria,8.99,EUR,10.22
+NL,Netherlands,8.99,EUR,10.22
+SI,Slovenia,8.99,EUR,10.22
+GR,Greece,8.99,EUR,10.22
+CY,Cyprus,8.99,EUR,10.22
+BJ,Benin,8.99,EUR,10.22
+GB,United Kingdom,7.99,GBP,10.58
+PL,Poland,39.99,PLN,10.59
+DK,Denmark,74.0,DKK,11.26
+HU,Hungary,3990.0,HUF,12.75
