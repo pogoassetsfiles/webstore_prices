@@ -1,41 +1,67 @@
 code,country,item_price,item_currency,item_price_usd
-ID,Indonesia,45000.0,IDR,2.53
+ID,Indonesia,45000.0,IDR,2.54
 IN,India,259.0,INR,2.71
 VN,Vietnam,82000.0,VND,3.13
-KZ,Kazakhstan,1800.0,KZT,3.9
-PH,Philippines,265.0,PHP,4.31
-MY,Malaysia,17.5,MYR,4.31
-MX,Mexico,84.0,MXN,4.94
-PE,Peru,16.9,PEN,5.02
-TH,Thailand,175.0,THB,5.3
-ZA,South Africa,89.99,ZAR,5.56
-KR,"Korea, Republic of",10000.0,KRW,7.08
-JP,Japan,1260.0,JPY,7.91
-NZ,New Zealand,14.99,NZD,8.87
+BR,Brazil,16.9,BRL,3.28
+KZ,Kazakhstan,1800.0,KZT,3.93
+PH,Philippines,265.0,PHP,4.29
+MY,Malaysia,17.5,MYR,4.33
+CL,Chile,4490.0,CLP,4.91
+MX,Mexico,84.0,MXN,4.96
+PE,Peru,16.9,PEN,5.03
+TH,Thailand,175.0,THB,5.35
+CO,Colombia,17000.0,COP,5.59
+ZA,South Africa,89.99,ZAR,5.62
+KR,"Korea, Republic of",10000.0,KRW,7.23
+JP,Japan,1260.0,JPY,7.92
+CA,Canada,11.99,CAD,8.67
+HK,Hong Kong,68.0,HKD,8.68
+NZ,New Zealand,14.99,NZD,8.94
 JO,Jordan,6.35,JOD,8.96
+AE,United Arab Emirates,32.99,AED,8.98
+BG,Bulgaria,8.99,USD,8.99
 US,United States of America,8.99,USD,8.99
-QA,Qatar,32.99,QAR,9.02
+QA,Qatar,32.99,QAR,9.05
 TW,Taiwan,290.0,TWD,9.11
-MA,Morocco,89.99,MAD,9.71
-RO,Romania,44.99,RON,9.96
-SG,Singapore,12.98,SGD,10.17
-IL,Israel,31.9,ILS,10.8
-LV,Latvia,9.99,EUR,11.59
-NO,Norway,109.0,NOK,11.59
-MT,Malta,9.99,EUR,11.59
-RS,Serbia,9.99,EUR,11.59
-NL,Netherlands,9.99,EUR,11.59
-LT,Lithuania,9.99,EUR,11.59
-LU,Luxembourg,9.99,EUR,11.59
-IS,Iceland,9.99,EUR,11.59
-IE,Ireland,9.99,EUR,11.59
-IT,Italy,9.99,EUR,11.59
-HR,Croatia,9.99,EUR,11.59
-ME,Montenegro,9.99,EUR,11.59
-NE,Niger,9.99,EUR,11.59
-SK,Slovakia,9.99,EUR,11.59
-PT,Portugal,9.99,EUR,11.59
-SI,Slovenia,9.99,EUR,11.59
-PL,Poland,44.99,PLN,12.11
-SE,Sweden,119.0,SEK,12.55
-HU,Hungary,4490.0,HUF,14.38
+MA,Morocco,89.99,MAD,9.7
+RO,Romania,44.99,RON,10.0
+AU,Australia,13.99,AUD,10.02
+SG,Singapore,12.98,SGD,10.22
+IL,Israel,31.9,ILS,10.66
+CZ,Czech Republic,229.0,CZK,11.09
+CH,Switzerland,9.0,CHF,11.21
+BJ,Benin,9.99,EUR,11.66
+NL,Netherlands,9.99,EUR,11.66
+NE,Niger,9.99,EUR,11.66
+ME,Montenegro,9.99,EUR,11.66
+IE,Ireland,9.99,EUR,11.66
+GR,Greece,9.99,EUR,11.66
+GA,Gabon,9.99,EUR,11.66
+HR,Croatia,9.99,EUR,11.66
+GW,Guinea-Bissau,9.99,EUR,11.66
+FR,France,9.99,EUR,11.66
+FI,Finland,9.99,EUR,11.66
+ES,Spain,9.99,EUR,11.66
+EE,Estonia,9.99,EUR,11.66
+AT,Austria,9.99,EUR,11.66
+BF,Burkina Faso,9.99,EUR,11.66
+CY,Cyprus,9.99,EUR,11.66
+DE,Germany,9.99,EUR,11.66
+IS,Iceland,9.99,EUR,11.66
+RS,Serbia,9.99,EUR,11.66
+PT,Portugal,9.99,EUR,11.66
+MT,Malta,9.99,EUR,11.66
+LV,Latvia,9.99,EUR,11.66
+IT,Italy,9.99,EUR,11.66
+LT,Lithuania,9.99,EUR,11.66
+LU,Luxembourg,9.99,EUR,11.66
+SK,Slovakia,9.99,EUR,11.66
+SI,Slovenia,9.99,EUR,11.66
+BE,Belgium,9.99,EUR,11.66
+BA,Bosnia and Herzegovina,9.99,EUR,11.66
+NO,Norway,109.0,NOK,11.72
+PL,Poland,44.99,PLN,12.19
+GB,United Kingdom,8.99,GBP,12.26
+SE,Sweden,119.0,SEK,12.53
+DK,Denmark,84.0,DKK,13.11
+HU,Hungary,4490.0,HUF,14.44
