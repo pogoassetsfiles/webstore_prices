@@ -20,7 +20,10 @@ CA,Canada,3.99,CAD,2.87
 NZ,New Zealand,4.99,NZD,2.95
 JO,Jordan,2.1,JOD,2.96
 US,United States of America,2.99,USD,2.99
+AE,United Arab Emirates,10.99,AED,2.99
+BG,Bulgaria,2.99,USD,2.99
 QA,Qatar,10.99,QAR,3.01
+AU,Australia,4.49,AUD,3.21
 MA,Morocco,29.99,MAD,3.23
 RO,Romania,14.99,RON,3.3
 SG,Singapore,4.48,SGD,3.52
@@ -28,30 +31,35 @@ IL,Israel,10.9,ILS,3.64
 CH,Switzerland,3.0,CHF,3.71
 NO,Norway,35.0,NOK,3.74
 CZ,Czech Republic,79.0,CZK,3.8
-IS,Iceland,3.29,EUR,3.81
-CY,Cyprus,3.29,EUR,3.81
-DE,Germany,3.29,EUR,3.81
-SK,Slovakia,3.29,EUR,3.81
-PT,Portugal,3.29,EUR,3.81
-NE,Niger,3.29,EUR,3.81
-LU,Luxembourg,3.29,EUR,3.81
-GW,Guinea-Bissau,3.29,EUR,3.81
-HR,Croatia,3.29,EUR,3.81
-IT,Italy,3.29,EUR,3.81
-LT,Lithuania,3.29,EUR,3.81
-EE,Estonia,3.29,EUR,3.81
-ES,Spain,3.29,EUR,3.81
-FI,Finland,3.29,EUR,3.81
-FR,France,3.29,EUR,3.81
+BA,Bosnia and Herzegovina,3.29,EUR,3.81
+NL,Netherlands,3.29,EUR,3.81
+ME,Montenegro,3.29,EUR,3.81
+IE,Ireland,3.29,EUR,3.81
 GR,Greece,3.29,EUR,3.81
 GA,Gabon,3.29,EUR,3.81
-IE,Ireland,3.29,EUR,3.81
-NL,Netherlands,3.29,EUR,3.81
-MT,Malta,3.29,EUR,3.81
-ME,Montenegro,3.29,EUR,3.81
+HR,Croatia,3.29,EUR,3.81
+GW,Guinea-Bissau,3.29,EUR,3.81
+FR,France,3.29,EUR,3.81
+FI,Finland,3.29,EUR,3.81
+ES,Spain,3.29,EUR,3.81
+EE,Estonia,3.29,EUR,3.81
+AT,Austria,3.29,EUR,3.81
+BF,Burkina Faso,3.29,EUR,3.81
+CY,Cyprus,3.29,EUR,3.81
+DE,Germany,3.29,EUR,3.81
+IS,Iceland,3.29,EUR,3.81
+NE,Niger,3.29,EUR,3.81
 RS,Serbia,3.29,EUR,3.81
+MT,Malta,3.29,EUR,3.81
 LV,Latvia,3.29,EUR,3.81
+IT,Italy,3.29,EUR,3.81
+LT,Lithuania,3.29,EUR,3.81
+LU,Luxembourg,3.29,EUR,3.81
+SK,Slovakia,3.29,EUR,3.81
 SI,Slovenia,3.29,EUR,3.81
+PT,Portugal,3.29,EUR,3.81
+BJ,Benin,3.29,EUR,3.81
+BE,Belgium,3.29,EUR,3.81
 PL,Poland,14.99,PLN,4.02
 GB,United Kingdom,2.99,GBP,4.05
 SE,Sweden,40.0,SEK,4.17

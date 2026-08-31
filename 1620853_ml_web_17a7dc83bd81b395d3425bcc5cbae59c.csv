@@ -1,37 +1,67 @@
 code,country,item_price,item_currency,item_price_usd
+ID,Indonesia,200000.0,IDR,11.28
 IN,India,1169.0,INR,12.29
 VN,Vietnam,365000.0,VND,14.0
+BR,Brazil,76.9,BRL,14.85
 KZ,Kazakhstan,8000.0,KZT,17.35
 PH,Philippines,1170.0,PHP,18.75
 MY,Malaysia,76.9,MYR,19.1
 MX,Mexico,359.0,MXN,21.1
+CL,Chile,19990.0,CLP,21.47
 PE,Peru,76.9,PEN,22.85
 TH,Thailand,769.0,THB,23.17
+CO,Colombia,76900.0,COP,24.32
 ZA,South Africa,399.99,ZAR,24.77
 KR,"Korea, Republic of",45000.0,KRW,32.87
 JP,Japan,5600.0,JPY,35.03
-JO,Jordan,28.35,JOD,39.99
+HK,Hong Kong,288.0,HKD,36.74
+CA,Canada,54.99,CAD,39.62
 US,United States of America,39.99,USD,39.99
+JO,Jordan,28.35,JOD,39.99
+BG,Bulgaria,39.99,USD,39.99
+AE,United Arab Emirates,147.99,AED,40.3
 QA,Qatar,147.99,QAR,40.5
 TW,Taiwan,1290.0,TWD,40.71
 NZ,New Zealand,69.99,NZD,41.39
 MA,Morocco,399.99,MAD,43.07
 RO,Romania,199.99,RON,44.09
+AU,Australia,62.99,AUD,45.09
 SG,Singapore,58.98,SGD,46.33
 IL,Israel,139.9,ILS,46.77
-ME,Montenegro,43.99,EUR,51.01
-MT,Malta,43.99,EUR,51.01
-LU,Luxembourg,43.99,EUR,51.01
-LV,Latvia,43.99,EUR,51.01
-SI,Slovenia,43.99,EUR,51.01
-RS,Serbia,43.99,EUR,51.01
+CZ,Czech Republic,999.0,CZK,48.0
+CH,Switzerland,39.0,CHF,48.24
+BJ,Benin,43.99,EUR,51.01
 NL,Netherlands,43.99,EUR,51.01
-PT,Portugal,43.99,EUR,51.01
-LT,Lithuania,43.99,EUR,51.01
-IS,Iceland,43.99,EUR,51.01
-IT,Italy,43.99,EUR,51.01
 NE,Niger,43.99,EUR,51.01
+ME,Montenegro,43.99,EUR,51.01
+IE,Ireland,43.99,EUR,51.01
+GR,Greece,43.99,EUR,51.01
+GA,Gabon,43.99,EUR,51.01
+HR,Croatia,43.99,EUR,51.01
+GW,Guinea-Bissau,43.99,EUR,51.01
+FR,France,43.99,EUR,51.01
+FI,Finland,43.99,EUR,51.01
+ES,Spain,43.99,EUR,51.01
+EE,Estonia,43.99,EUR,51.01
+AT,Austria,43.99,EUR,51.01
+BF,Burkina Faso,43.99,EUR,51.01
+CY,Cyprus,43.99,EUR,51.01
+DE,Germany,43.99,EUR,51.01
+IS,Iceland,43.99,EUR,51.01
+RS,Serbia,43.99,EUR,51.01
+PT,Portugal,43.99,EUR,51.01
+MT,Malta,43.99,EUR,51.01
+LV,Latvia,43.99,EUR,51.01
+IT,Italy,43.99,EUR,51.01
+LT,Lithuania,43.99,EUR,51.01
+LU,Luxembourg,43.99,EUR,51.01
 SK,Slovakia,43.99,EUR,51.01
+SI,Slovenia,43.99,EUR,51.01
+BE,Belgium,43.99,EUR,51.01
+BA,Bosnia and Herzegovina,43.99,EUR,51.01
 NO,Norway,499.0,NOK,53.34
 PL,Poland,199.99,PLN,53.58
+DK,Denmark,349.0,DKK,54.14
+GB,United Kingdom,39.99,GBP,54.14
 SE,Sweden,539.0,SEK,56.15
+HU,Hungary,19990.0,HUF,63.57
