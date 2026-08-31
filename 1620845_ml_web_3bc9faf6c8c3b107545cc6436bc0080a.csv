@@ -1,0 +1,41 @@
+code,country,item_price,item_currency,item_price_usd
+ID,Indonesia,56000.0,IDR,3.16
+IN,India,319.0,INR,3.35
+VN,Vietnam,100000.0,VND,3.84
+KZ,Kazakhstan,2200.0,KZT,4.77
+PH,Philippines,320.0,PHP,5.13
+MY,Malaysia,20.9,MYR,5.19
+MX,Mexico,99.0,MXN,5.82
+PE,Peru,20.9,PEN,6.21
+TH,Thailand,210.0,THB,6.33
+ZA,South Africa,109.99,ZAR,6.81
+KR,"Korea, Republic of",12200.0,KRW,8.91
+JP,Japan,1540.0,JPY,9.63
+QA,Qatar,39.99,QAR,10.94
+US,United States of America,10.99,USD,10.99
+JO,Jordan,7.8,JOD,11.0
+TW,Taiwan,350.0,TWD,11.05
+NZ,New Zealand,18.99,NZD,11.23
+MA,Morocco,109.99,MAD,11.84
+RO,Romania,54.99,RON,12.12
+SG,Singapore,15.98,SGD,12.55
+IL,Israel,39.9,ILS,13.34
+NO,Norway,129.0,NOK,13.79
+NE,Niger,11.99,EUR,13.9
+LV,Latvia,11.99,EUR,13.9
+RS,Serbia,11.99,EUR,13.9
+NL,Netherlands,11.99,EUR,13.9
+LT,Lithuania,11.99,EUR,13.9
+LU,Luxembourg,11.99,EUR,13.9
+IS,Iceland,11.99,EUR,13.9
+IE,Ireland,11.99,EUR,13.9
+IT,Italy,11.99,EUR,13.9
+HR,Croatia,11.99,EUR,13.9
+ME,Montenegro,11.99,EUR,13.9
+MT,Malta,11.99,EUR,13.9
+SK,Slovakia,11.99,EUR,13.9
+PT,Portugal,11.99,EUR,13.9
+SI,Slovenia,11.99,EUR,13.9
+PL,Poland,54.99,PLN,14.73
+SE,Sweden,149.0,SEK,15.52
+HU,Hungary,5490.0,HUF,17.46

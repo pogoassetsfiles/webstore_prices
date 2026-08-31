@@ -1,0 +1,39 @@
+code,country,item_price,item_currency,item_price_usd
+ID,Indonesia,151000.0,IDR,8.52
+IN,India,879.0,INR,9.24
+VN,Vietnam,275000.0,VND,10.55
+KZ,Kazakhstan,6000.0,KZT,13.01
+PH,Philippines,879.0,PHP,14.09
+MY,Malaysia,57.9,MYR,14.38
+MX,Mexico,269.0,MXN,15.81
+PE,Peru,57.9,PEN,17.2
+TH,Thailand,580.0,THB,17.47
+ZA,South Africa,299.99,ZAR,18.57
+KR,"Korea, Republic of",33500.0,KRW,24.47
+JP,Japan,4200.0,JPY,26.27
+NZ,New Zealand,49.99,NZD,29.56
+JO,Jordan,21.0,JOD,29.62
+US,United States of America,29.99,USD,29.99
+QA,Qatar,109.99,QAR,30.1
+MA,Morocco,289.99,MAD,31.22
+TW,Taiwan,990.0,TWD,31.25
+RO,Romania,149.99,RON,33.07
+SG,Singapore,44.98,SGD,35.33
+IL,Israel,105.9,ILS,35.41
+MT,Malta,32.99,EUR,38.25
+LV,Latvia,32.99,EUR,38.25
+ME,Montenegro,32.99,EUR,38.25
+SI,Slovenia,32.99,EUR,38.25
+NL,Netherlands,32.99,EUR,38.25
+NE,Niger,32.99,EUR,38.25
+LU,Luxembourg,32.99,EUR,38.25
+LT,Lithuania,32.99,EUR,38.25
+IE,Ireland,32.99,EUR,38.25
+IT,Italy,32.99,EUR,38.25
+IS,Iceland,32.99,EUR,38.25
+PT,Portugal,32.99,EUR,38.25
+SK,Slovakia,32.99,EUR,38.25
+RS,Serbia,32.99,EUR,38.25
+PL,Poland,149.99,PLN,40.18
+NO,Norway,379.0,NOK,40.51
+SE,Sweden,399.0,SEK,41.57
