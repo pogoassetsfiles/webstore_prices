@@ -1,30 +1,67 @@
 code,country,item_price,item_currency,item_price_usd
+ID,Indonesia,96000.0,IDR,5.34
+IN,India,559.0,INR,5.87
 VN,Vietnam,170000.0,VND,6.56
+BR,Brazil,35.99,BRL,7.14
 KZ,Kazakhstan,3800.0,KZT,8.41
 MY,Malaysia,35.99,MYR,8.81
 PH,Philippines,559.0,PHP,8.88
 MX,Mexico,171.0,MXN,9.24
+CL,Chile,9390.0,CLP,9.52
 PE,Peru,35.99,PEN,10.45
 TH,Thailand,360.0,THB,10.68
+CO,Colombia,36000.0,COP,11.25
 ZA,South Africa,189.99,ZAR,11.46
+KR,"Korea, Republic of",20900.0,KRW,15.6
+JP,Japan,2680.0,JPY,16.87
+HK,Hong Kong,143.0,HKD,18.22
 NZ,New Zealand,32.99,NZD,18.43
+CA,Canada,26.49,CAD,18.57
+JO,Jordan,13.4,JOD,18.9
 US,United States of America,18.99,USD,18.99
+BG,Bulgaria,18.99,USD,18.99
+AE,United Arab Emirates,70.99,AED,19.33
 QA,Qatar,70.99,QAR,19.48
 RO,Romania,95.99,RON,20.0
 TW,Taiwan,650.0,TWD,20.25
+AU,Australia,29.49,AUD,20.56
 SG,Singapore,27.48,SGD,21.37
+IL,Israel,66.5,ILS,21.52
+CZ,Czech Republic,479.0,CZK,21.87
+CH,Switzerland,18.95,CHF,22.62
 MA,Morocco,227.99,MAD,23.15
-LT,Lithuania,20.99,EUR,23.36
-PT,Portugal,20.99,EUR,23.36
-SK,Slovakia,20.99,EUR,23.36
+BJ,Benin,20.99,EUR,23.36
 NL,Netherlands,20.99,EUR,23.36
 NE,Niger,20.99,EUR,23.36
-LV,Latvia,20.99,EUR,23.36
-LU,Luxembourg,20.99,EUR,23.36
 ME,Montenegro,20.99,EUR,23.36
-MT,Malta,20.99,EUR,23.36
-SI,Slovenia,20.99,EUR,23.36
+IE,Ireland,20.99,EUR,23.36
+GR,Greece,20.99,EUR,23.36
+GA,Gabon,20.99,EUR,23.36
+HR,Croatia,20.99,EUR,23.36
+GW,Guinea-Bissau,20.99,EUR,23.36
+FR,France,20.99,EUR,23.36
+FI,Finland,20.99,EUR,23.36
+ES,Spain,20.99,EUR,23.36
+EE,Estonia,20.99,EUR,23.36
+AT,Austria,20.99,EUR,23.36
+BF,Burkina Faso,20.99,EUR,23.36
+CY,Cyprus,20.99,EUR,23.36
+DE,Germany,20.99,EUR,23.36
+IS,Iceland,20.99,EUR,23.36
 RS,Serbia,20.99,EUR,23.36
+PT,Portugal,20.99,EUR,23.36
+MT,Malta,20.99,EUR,23.36
+LV,Latvia,20.99,EUR,23.36
+IT,Italy,20.99,EUR,23.36
+LT,Lithuania,20.99,EUR,23.36
+LU,Luxembourg,20.99,EUR,23.36
+SK,Slovakia,20.99,EUR,23.36
+SI,Slovenia,20.99,EUR,23.36
+BE,Belgium,20.99,EUR,23.36
+BA,Bosnia and Herzegovina,20.99,EUR,23.36
 PL,Poland,95.99,PLN,24.45
 NO,Norway,235.0,NOK,24.67
+GB,United Kingdom,18.99,GBP,25.07
+DK,Denmark,170.0,DKK,25.31
 SE,Sweden,255.0,SEK,25.39
+HU,Hungary,9490.0,HUF,29.02

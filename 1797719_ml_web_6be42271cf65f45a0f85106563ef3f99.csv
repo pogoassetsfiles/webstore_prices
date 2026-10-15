@@ -2,47 +2,66 @@ code,country,item_price,item_currency,item_price_usd
 ID,Indonesia,50000.0,IDR,2.78
 IN,India,289.0,INR,3.03
 VN,Vietnam,90000.0,VND,3.48
+BR,Brazil,18.9,BRL,3.75
 KZ,Kazakhstan,2000.0,KZT,4.43
 PH,Philippines,289.0,PHP,4.59
 MY,Malaysia,18.9,MYR,4.63
 MX,Mexico,89.0,MXN,4.81
+CL,Chile,4890.0,CLP,4.96
 PE,Peru,18.9,PEN,5.49
 TH,Thailand,189.0,THB,5.61
+CO,Colombia,19000.0,COP,5.94
 ZA,South Africa,99.99,ZAR,6.03
 KR,"Korea, Republic of",11000.0,KRW,8.21
 JP,Japan,1400.0,JPY,8.81
 NZ,New Zealand,16.99,NZD,9.49
+CA,Canada,13.99,CAD,9.81
 HK,Hong Kong,78.0,HKD,9.94
 MA,Morocco,97.99,MAD,9.95
 TW,Taiwan,320.0,TWD,9.97
 US,United States of America,9.99,USD,9.99
+BG,Bulgaria,9.99,USD,9.99
 JO,Jordan,7.1,JOD,10.01
+AE,United Arab Emirates,36.99,AED,10.07
 QA,Qatar,36.99,QAR,10.15
 RO,Romania,49.99,RON,10.41
+AU,Australia,14.99,AUD,10.45
+CZ,Czech Republic,249.0,CZK,11.37
 IL,Israel,35.9,ILS,11.62
 SG,Singapore,14.98,SGD,11.65
-HR,Croatia,10.99,EUR,12.23
-GR,Greece,10.99,EUR,12.23
-ME,Montenegro,10.99,EUR,12.23
-LV,Latvia,10.99,EUR,12.23
-IE,Ireland,10.99,EUR,12.23
-IT,Italy,10.99,EUR,12.23
-GW,Guinea-Bissau,10.99,EUR,12.23
-FI,Finland,10.99,EUR,12.23
-GA,Gabon,10.99,EUR,12.23
-FR,France,10.99,EUR,12.23
-IS,Iceland,10.99,EUR,12.23
-SK,Slovakia,10.99,EUR,12.23
-PT,Portugal,10.99,EUR,12.23
+CH,Switzerland,10.0,CHF,11.94
+BJ,Benin,10.99,EUR,12.23
 NL,Netherlands,10.99,EUR,12.23
+NE,Niger,10.99,EUR,12.23
+ME,Montenegro,10.99,EUR,12.23
+IE,Ireland,10.99,EUR,12.23
+GR,Greece,10.99,EUR,12.23
+GA,Gabon,10.99,EUR,12.23
+HR,Croatia,10.99,EUR,12.23
+GW,Guinea-Bissau,10.99,EUR,12.23
+FR,France,10.99,EUR,12.23
+FI,Finland,10.99,EUR,12.23
+ES,Spain,10.99,EUR,12.23
+EE,Estonia,10.99,EUR,12.23
+AT,Austria,10.99,EUR,12.23
+BF,Burkina Faso,10.99,EUR,12.23
+CY,Cyprus,10.99,EUR,12.23
+DE,Germany,10.99,EUR,12.23
+IS,Iceland,10.99,EUR,12.23
+RS,Serbia,10.99,EUR,12.23
+PT,Portugal,10.99,EUR,12.23
+MT,Malta,10.99,EUR,12.23
+LV,Latvia,10.99,EUR,12.23
+IT,Italy,10.99,EUR,12.23
 LT,Lithuania,10.99,EUR,12.23
 LU,Luxembourg,10.99,EUR,12.23
-MT,Malta,10.99,EUR,12.23
-NE,Niger,10.99,EUR,12.23
+SK,Slovakia,10.99,EUR,12.23
 SI,Slovenia,10.99,EUR,12.23
-RS,Serbia,10.99,EUR,12.23
+BE,Belgium,10.99,EUR,12.23
+BA,Bosnia and Herzegovina,10.99,EUR,12.23
 NO,Norway,119.0,NOK,12.49
 PL,Poland,49.99,PLN,12.73
 SE,Sweden,129.0,SEK,12.84
 GB,United Kingdom,9.99,GBP,13.19
+DK,Denmark,89.0,DKK,13.25
 HU,Hungary,4990.0,HUF,15.26

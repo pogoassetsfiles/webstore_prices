@@ -1,23 +1,67 @@
 code,country,item_price,item_currency,item_price_usd
+ID,Indonesia,195000.0,IDR,10.85
+IN,India,1139.0,INR,11.96
 VN,Vietnam,355000.0,VND,13.71
+BR,Brazil,74.9,BRL,14.85
+KZ,Kazakhstan,7790.0,KZT,17.25
 PH,Philippines,1140.0,PHP,18.12
 MY,Malaysia,74.9,MYR,18.34
 MX,Mexico,350.0,MXN,18.91
+CL,Chile,19490.0,CLP,19.76
 PE,Peru,74.9,PEN,21.76
 TH,Thailand,750.0,THB,22.26
+CO,Colombia,75000.0,COP,23.44
 ZA,South Africa,389.99,ZAR,23.52
+KR,"Korea, Republic of",43900.0,KRW,32.76
+JP,Japan,5480.0,JPY,34.5
+HK,Hong Kong,283.0,HKD,36.06
+CA,Canada,53.9,CAD,37.78
 NZ,New Zealand,67.99,NZD,37.99
 US,United States of America,38.99,USD,38.99
+BG,Bulgaria,38.99,USD,38.99
+JO,Jordan,27.65,JOD,39.0
+AE,United Arab Emirates,143.99,AED,39.21
 TW,Taiwan,1260.0,TWD,39.25
 QA,Qatar,143.99,QAR,39.51
 RO,Romania,194.99,RON,40.62
+AU,Australia,60.99,AUD,42.53
+CZ,Czech Republic,970.0,CZK,44.28
+IL,Israel,136.9,ILS,44.3
 SG,Singapore,57.98,SGD,45.1
-SI,Slovenia,42.99,EUR,47.84
-NE,Niger,42.99,EUR,47.84
+CH,Switzerland,37.95,CHF,45.3
+MA,Morocco,467.99,MAD,47.52
+BJ,Benin,42.99,EUR,47.84
 NL,Netherlands,42.99,EUR,47.84
-PT,Portugal,42.99,EUR,47.84
-SK,Slovakia,42.99,EUR,47.84
+NE,Niger,42.99,EUR,47.84
+ME,Montenegro,42.99,EUR,47.84
+IE,Ireland,42.99,EUR,47.84
+GR,Greece,42.99,EUR,47.84
+GA,Gabon,42.99,EUR,47.84
+HR,Croatia,42.99,EUR,47.84
+GW,Guinea-Bissau,42.99,EUR,47.84
+FR,France,42.99,EUR,47.84
+FI,Finland,42.99,EUR,47.84
+ES,Spain,42.99,EUR,47.84
+EE,Estonia,42.99,EUR,47.84
+AT,Austria,42.99,EUR,47.84
+BF,Burkina Faso,42.99,EUR,47.84
+CY,Cyprus,42.99,EUR,47.84
+DE,Germany,42.99,EUR,47.84
+IS,Iceland,42.99,EUR,47.84
 RS,Serbia,42.99,EUR,47.84
+PT,Portugal,42.99,EUR,47.84
+MT,Malta,42.99,EUR,47.84
+LV,Latvia,42.99,EUR,47.84
+IT,Italy,42.99,EUR,47.84
+LT,Lithuania,42.99,EUR,47.84
+LU,Luxembourg,42.99,EUR,47.84
+SK,Slovakia,42.99,EUR,47.84
+SI,Slovenia,42.99,EUR,47.84
+BE,Belgium,42.99,EUR,47.84
+BA,Bosnia and Herzegovina,42.99,EUR,47.84
 PL,Poland,194.99,PLN,49.67
+DK,Denmark,340.0,DKK,50.62
 NO,Norway,485.0,NOK,50.91
+GB,United Kingdom,38.99,GBP,51.48
 SE,Sweden,529.0,SEK,52.67
+HU,Hungary,19490.0,HUF,59.61

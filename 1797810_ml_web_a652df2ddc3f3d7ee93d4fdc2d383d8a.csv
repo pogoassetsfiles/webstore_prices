@@ -1,21 +1,67 @@
 code,country,item_price,item_currency,item_price_usd
+ID,Indonesia,379000.0,IDR,21.08
+IN,India,2199.0,INR,23.09
 VN,Vietnam,680000.0,VND,26.26
+BR,Brazil,143.9,BRL,28.54
+KZ,Kazakhstan,15000.0,KZT,33.21
 PH,Philippines,2200.0,PHP,34.96
+MY,Malaysia,143.9,MYR,35.23
+MX,Mexico,670.0,MXN,36.19
+CL,Chile,37000.0,CLP,37.51
 PE,Peru,143.9,PEN,41.8
 TH,Thailand,1440.0,THB,42.74
+CO,Colombia,143900.0,COP,44.97
 ZA,South Africa,749.99,ZAR,45.22
+KR,"Korea, Republic of",83000.0,KRW,61.94
+JP,Japan,10500.0,JPY,66.11
 TW,Taiwan,2290.0,TWD,71.34
 NZ,New Zealand,129.99,NZD,72.63
+CA,Canada,104.99,CAD,73.59
+BG,Bulgaria,74.99,USD,74.99
 US,United States of America,74.99,USD,74.99
+JO,Jordan,53.25,JOD,75.11
+HK,Hong Kong,590.0,HKD,75.18
+AE,United Arab Emirates,279.0,AED,75.97
 QA,Qatar,279.0,QAR,76.55
 RO,Romania,374.99,RON,78.11
+AU,Australia,119.99,AUD,83.67
 SG,Singapore,108.98,SGD,84.76
-PT,Portugal,81.99,EUR,91.25
-SI,Slovenia,81.99,EUR,91.25
-RS,Serbia,81.99,EUR,91.25
+CZ,Czech Republic,1870.0,CZK,85.37
+IL,Israel,264.9,ILS,85.73
+CH,Switzerland,73.95,CHF,88.28
+DE,Germany,81.99,EUR,91.25
+BJ,Benin,81.99,EUR,91.25
+IT,Italy,81.99,EUR,91.25
 NL,Netherlands,81.99,EUR,91.25
-NE,Niger,81.99,EUR,91.25
+MT,Malta,81.99,EUR,91.25
+IE,Ireland,81.99,EUR,91.25
+GR,Greece,81.99,EUR,91.25
+GA,Gabon,81.99,EUR,91.25
+HR,Croatia,81.99,EUR,91.25
+GW,Guinea-Bissau,81.99,EUR,91.25
+FR,France,81.99,EUR,91.25
+FI,Finland,81.99,EUR,91.25
+ES,Spain,81.99,EUR,91.25
+EE,Estonia,81.99,EUR,91.25
+AT,Austria,81.99,EUR,91.25
+BF,Burkina Faso,81.99,EUR,91.25
+CY,Cyprus,81.99,EUR,91.25
+IS,Iceland,81.99,EUR,91.25
 SK,Slovakia,81.99,EUR,91.25
+RS,Serbia,81.99,EUR,91.25
+PT,Portugal,81.99,EUR,91.25
+NE,Niger,81.99,EUR,91.25
+ME,Montenegro,81.99,EUR,91.25
+LV,Latvia,81.99,EUR,91.25
+LT,Lithuania,81.99,EUR,91.25
+LU,Luxembourg,81.99,EUR,91.25
+SI,Slovenia,81.99,EUR,91.25
+BA,Bosnia and Herzegovina,81.99,EUR,91.25
+BE,Belgium,81.99,EUR,91.25
+MA,Morocco,899.99,MAD,91.39
 PL,Poland,374.99,PLN,95.52
 NO,Norway,940.0,NOK,98.66
+GB,United Kingdom,74.99,GBP,99.02
+DK,Denmark,670.0,DKK,99.75
 SE,Sweden,1049.0,SEK,104.44
+HU,Hungary,37490.0,HUF,114.66

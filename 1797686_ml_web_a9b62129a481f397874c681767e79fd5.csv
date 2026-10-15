@@ -2,10 +2,12 @@ code,country,item_price,item_currency,item_price_usd
 ID,Indonesia,32500.0,IDR,1.81
 IN,India,189.0,INR,1.98
 VN,Vietnam,59000.0,VND,2.28
+BR,Brazil,12.5,BRL,2.48
 KZ,Kazakhstan,1300.0,KZT,2.88
 PH,Philippines,190.0,PHP,3.02
 MY,Malaysia,12.5,MYR,3.06
 MX,Mexico,59.0,MXN,3.19
+CL,Chile,3200.0,CLP,3.24
 PE,Peru,12.5,PEN,3.63
 TH,Thailand,125.0,THB,3.71
 CO,Colombia,12500.0,COP,3.91
@@ -13,40 +15,50 @@ ZA,South Africa,64.99,ZAR,3.92
 KR,"Korea, Republic of",7200.0,KRW,5.37
 JP,Japan,910.0,JPY,5.73
 NZ,New Zealand,10.99,NZD,6.14
+AE,United Arab Emirates,22.99,AED,6.26
 QA,Qatar,22.99,QAR,6.31
 TW,Taiwan,205.0,TWD,6.39
 JO,Jordan,4.55,JOD,6.42
+BG,Bulgaria,6.49,USD,6.49
 US,United States of America,6.49,USD,6.49
+CA,Canada,9.29,CAD,6.51
 HK,Hong Kong,52.0,HKD,6.63
 RO,Romania,32.49,RON,6.77
+AU,Australia,10.49,AUD,7.31
 SG,Singapore,9.48,SGD,7.37
 IL,Israel,22.9,ILS,7.41
 CZ,Czech Republic,165.0,CZK,7.53
+CH,Switzerland,6.5,CHF,7.76
 MA,Morocco,77.99,MAD,7.92
-IS,Iceland,7.19,EUR,8.0
-IT,Italy,7.19,EUR,8.0
-IE,Ireland,7.19,EUR,8.0
-CY,Cyprus,7.19,EUR,8.0
-EE,Estonia,7.19,EUR,8.0
-ES,Spain,7.19,EUR,8.0
-FI,Finland,7.19,EUR,8.0
-DE,Germany,7.19,EUR,8.0
-PT,Portugal,7.19,EUR,8.0
-SK,Slovakia,7.19,EUR,8.0
-RS,Serbia,7.19,EUR,8.0
-MT,Malta,7.19,EUR,8.0
-LT,Lithuania,7.19,EUR,8.0
+BJ,Benin,7.19,EUR,8.0
+NL,Netherlands,7.19,EUR,8.0
+NE,Niger,7.19,EUR,8.0
 ME,Montenegro,7.19,EUR,8.0
-LV,Latvia,7.19,EUR,8.0
-LU,Luxembourg,7.19,EUR,8.0
-HR,Croatia,7.19,EUR,8.0
-FR,France,7.19,EUR,8.0
+IE,Ireland,7.19,EUR,8.0
 GR,Greece,7.19,EUR,8.0
 GA,Gabon,7.19,EUR,8.0
+HR,Croatia,7.19,EUR,8.0
 GW,Guinea-Bissau,7.19,EUR,8.0
+FR,France,7.19,EUR,8.0
+FI,Finland,7.19,EUR,8.0
+ES,Spain,7.19,EUR,8.0
+EE,Estonia,7.19,EUR,8.0
+AT,Austria,7.19,EUR,8.0
+BF,Burkina Faso,7.19,EUR,8.0
+CY,Cyprus,7.19,EUR,8.0
+DE,Germany,7.19,EUR,8.0
+IS,Iceland,7.19,EUR,8.0
+RS,Serbia,7.19,EUR,8.0
+PT,Portugal,7.19,EUR,8.0
+MT,Malta,7.19,EUR,8.0
+LV,Latvia,7.19,EUR,8.0
+IT,Italy,7.19,EUR,8.0
+LT,Lithuania,7.19,EUR,8.0
+LU,Luxembourg,7.19,EUR,8.0
+SK,Slovakia,7.19,EUR,8.0
 SI,Slovenia,7.19,EUR,8.0
-NE,Niger,7.19,EUR,8.0
-NL,Netherlands,7.19,EUR,8.0
+BE,Belgium,7.19,EUR,8.0
+BA,Bosnia and Herzegovina,7.19,EUR,8.0
 PL,Poland,32.49,PLN,8.28
 NO,Norway,79.0,NOK,8.29
 SE,Sweden,84.0,SEK,8.36

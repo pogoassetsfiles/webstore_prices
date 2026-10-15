@@ -1,24 +1,67 @@
 code,country,item_price,item_currency,item_price_usd
+ID,Indonesia,101000.0,IDR,5.62
+IN,India,589.0,INR,6.19
 VN,Vietnam,180000.0,VND,6.95
+BR,Brazil,37.9,BRL,7.52
+KZ,Kazakhstan,4000.0,KZT,8.86
 MY,Malaysia,37.9,MYR,9.28
 PH,Philippines,589.0,PHP,9.36
 MX,Mexico,179.0,MXN,9.67
+CL,Chile,9890.0,CLP,10.03
 PE,Peru,37.9,PEN,11.01
 TH,Thailand,379.0,THB,11.25
+CO,Colombia,38000.0,COP,11.88
 ZA,South Africa,199.99,ZAR,12.06
+KR,"Korea, Republic of",22000.0,KRW,16.42
+JP,Japan,2800.0,JPY,17.63
+HK,Hong Kong,148.0,HKD,18.86
 NZ,New Zealand,34.99,NZD,19.55
+CA,Canada,27.99,CAD,19.62
+JO,Jordan,14.15,JOD,19.96
 US,United States of America,19.99,USD,19.99
+BG,Bulgaria,19.99,USD,19.99
+MA,Morocco,199.99,MAD,20.31
+AE,United Arab Emirates,74.99,AED,20.42
 QA,Qatar,74.99,QAR,20.58
 RO,Romania,99.99,RON,20.83
 TW,Taiwan,690.0,TWD,21.49
+AU,Australia,30.99,AUD,21.61
 SG,Singapore,28.98,SGD,22.54
-RS,Serbia,21.99,EUR,24.47
-MT,Malta,21.99,EUR,24.47
+IL,Israel,69.9,ILS,22.62
+CZ,Czech Republic,499.0,CZK,22.78
+CH,Switzerland,20.0,CHF,23.87
+BJ,Benin,21.99,EUR,24.47
 NL,Netherlands,21.99,EUR,24.47
 NE,Niger,21.99,EUR,24.47
+ME,Montenegro,21.99,EUR,24.47
+IE,Ireland,21.99,EUR,24.47
+GR,Greece,21.99,EUR,24.47
+GA,Gabon,21.99,EUR,24.47
+HR,Croatia,21.99,EUR,24.47
+GW,Guinea-Bissau,21.99,EUR,24.47
+FR,France,21.99,EUR,24.47
+FI,Finland,21.99,EUR,24.47
+ES,Spain,21.99,EUR,24.47
+EE,Estonia,21.99,EUR,24.47
+AT,Austria,21.99,EUR,24.47
+BF,Burkina Faso,21.99,EUR,24.47
+CY,Cyprus,21.99,EUR,24.47
+DE,Germany,21.99,EUR,24.47
+IS,Iceland,21.99,EUR,24.47
+RS,Serbia,21.99,EUR,24.47
+PT,Portugal,21.99,EUR,24.47
+MT,Malta,21.99,EUR,24.47
+LV,Latvia,21.99,EUR,24.47
+IT,Italy,21.99,EUR,24.47
+LT,Lithuania,21.99,EUR,24.47
+LU,Luxembourg,21.99,EUR,24.47
 SK,Slovakia,21.99,EUR,24.47
 SI,Slovenia,21.99,EUR,24.47
-PT,Portugal,21.99,EUR,24.47
+BE,Belgium,21.99,EUR,24.47
+BA,Bosnia and Herzegovina,21.99,EUR,24.47
 PL,Poland,99.99,PLN,25.47
 NO,Norway,249.0,NOK,26.14
+GB,United Kingdom,19.99,GBP,26.4
+DK,Denmark,179.0,DKK,26.65
 SE,Sweden,269.0,SEK,26.78
+HU,Hungary,9990.0,HUF,30.55

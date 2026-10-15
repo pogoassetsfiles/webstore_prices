@@ -2,6 +2,7 @@ code,country,item_price,item_currency,item_price_usd
 ID,Indonesia,47000.0,IDR,2.61
 IN,India,275.0,INR,2.89
 VN,Vietnam,86000.0,VND,3.32
+BR,Brazil,17.9,BRL,3.55
 KZ,Kazakhstan,1900.0,KZT,4.21
 PH,Philippines,275.0,PHP,4.37
 MY,Malaysia,18.0,MYR,4.41
@@ -18,38 +19,46 @@ CA,Canada,12.99,CAD,9.1
 HK,Hong Kong,73.0,HKD,9.3
 JO,Jordan,6.7,JOD,9.45
 US,United States of America,9.49,USD,9.49
+BG,Bulgaria,9.49,USD,9.49
 TW,Taiwan,305.0,TWD,9.5
+AE,United Arab Emirates,34.99,AED,9.53
 QA,Qatar,34.99,QAR,9.6
 RO,Romania,47.49,RON,9.89
+AU,Australia,14.49,AUD,10.1
 SG,Singapore,13.98,SGD,10.87
 CZ,Czech Republic,239.0,CZK,10.91
 IL,Israel,33.9,ILS,10.97
 CH,Switzerland,9.5,CHF,11.34
 MA,Morocco,113.99,MAD,11.58
-IS,Iceland,10.49,EUR,11.67
-IT,Italy,10.49,EUR,11.67
+BJ,Benin,10.49,EUR,11.67
+NL,Netherlands,10.49,EUR,11.67
+NE,Niger,10.49,EUR,11.67
+ME,Montenegro,10.49,EUR,11.67
+IE,Ireland,10.49,EUR,11.67
+GR,Greece,10.49,EUR,11.67
+GA,Gabon,10.49,EUR,11.67
+HR,Croatia,10.49,EUR,11.67
+GW,Guinea-Bissau,10.49,EUR,11.67
+FR,France,10.49,EUR,11.67
+FI,Finland,10.49,EUR,11.67
+ES,Spain,10.49,EUR,11.67
+EE,Estonia,10.49,EUR,11.67
+AT,Austria,10.49,EUR,11.67
+BF,Burkina Faso,10.49,EUR,11.67
 CY,Cyprus,10.49,EUR,11.67
 DE,Germany,10.49,EUR,11.67
-EE,Estonia,10.49,EUR,11.67
-MT,Malta,10.49,EUR,11.67
-NE,Niger,10.49,EUR,11.67
+IS,Iceland,10.49,EUR,11.67
+RS,Serbia,10.49,EUR,11.67
 PT,Portugal,10.49,EUR,11.67
+MT,Malta,10.49,EUR,11.67
 LV,Latvia,10.49,EUR,11.67
-IE,Ireland,10.49,EUR,11.67
-HR,Croatia,10.49,EUR,11.67
+IT,Italy,10.49,EUR,11.67
 LT,Lithuania,10.49,EUR,11.67
 LU,Luxembourg,10.49,EUR,11.67
-GA,Gabon,10.49,EUR,11.67
-ES,Spain,10.49,EUR,11.67
-FI,Finland,10.49,EUR,11.67
-FR,France,10.49,EUR,11.67
-GW,Guinea-Bissau,10.49,EUR,11.67
-GR,Greece,10.49,EUR,11.67
-ME,Montenegro,10.49,EUR,11.67
-NL,Netherlands,10.49,EUR,11.67
 SK,Slovakia,10.49,EUR,11.67
 SI,Slovenia,10.49,EUR,11.67
-RS,Serbia,10.49,EUR,11.67
+BE,Belgium,10.49,EUR,11.67
+BA,Bosnia and Herzegovina,10.49,EUR,11.67
 NO,Norway,115.0,NOK,12.07
 PL,Poland,47.49,PLN,12.1
 SE,Sweden,125.0,SEK,12.45

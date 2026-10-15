@@ -2,47 +2,62 @@ code,country,item_price,item_currency,item_price_usd
 ID,Indonesia,86000.0,IDR,4.78
 IN,India,499.0,INR,5.24
 VN,Vietnam,155000.0,VND,5.99
+BR,Brazil,32.5,BRL,6.44
 KZ,Kazakhstan,3400.0,KZT,7.53
 PH,Philippines,499.0,PHP,7.93
 MY,Malaysia,32.5,MYR,7.96
 MX,Mexico,155.0,MXN,8.37
+CL,Chile,8390.0,CLP,8.5
 PE,Peru,32.5,PEN,9.44
 TH,Thailand,325.0,THB,9.65
+CO,Colombia,32500.0,COP,10.16
 ZA,South Africa,169.99,ZAR,10.25
 KR,"Korea, Republic of",18800.0,KRW,14.03
 JP,Japan,2380.0,JPY,14.98
 NZ,New Zealand,29.49,NZD,16.48
 HK,Hong Kong,130.0,HKD,16.56
+CA,Canada,23.99,CAD,16.81
 JO,Jordan,12.0,JOD,16.93
 US,United States of America,16.99,USD,16.99
+BG,Bulgaria,16.99,USD,16.99
+AE,United Arab Emirates,62.99,AED,17.15
 QA,Qatar,62.99,QAR,17.28
 TW,Taiwan,570.0,TWD,17.76
+AU,Australia,26.0,AUD,18.13
 RO,Romania,87.99,RON,18.33
 SG,Singapore,24.9,SGD,19.37
 IL,Israel,60.5,ILS,19.58
-GR,Greece,18.49,EUR,20.58
-LU,Luxembourg,18.49,EUR,20.58
-IE,Ireland,18.49,EUR,20.58
-LT,Lithuania,18.49,EUR,20.58
-IT,Italy,18.49,EUR,20.58
-HR,Croatia,18.49,EUR,20.58
+CZ,Czech Republic,439.0,CZK,20.04
+CH,Switzerland,16.95,CHF,20.23
 DE,Germany,18.49,EUR,20.58
+BJ,Benin,18.49,EUR,20.58
+IT,Italy,18.49,EUR,20.58
+NL,Netherlands,18.49,EUR,20.58
+MT,Malta,18.49,EUR,20.58
+IE,Ireland,18.49,EUR,20.58
+GR,Greece,18.49,EUR,20.58
 GA,Gabon,18.49,EUR,20.58
-EE,Estonia,18.49,EUR,20.58
-ES,Spain,18.49,EUR,20.58
-FI,Finland,18.49,EUR,20.58
-IS,Iceland,18.49,EUR,20.58
+HR,Croatia,18.49,EUR,20.58
 GW,Guinea-Bissau,18.49,EUR,20.58
 FR,France,18.49,EUR,20.58
+FI,Finland,18.49,EUR,20.58
+ES,Spain,18.49,EUR,20.58
+EE,Estonia,18.49,EUR,20.58
+AT,Austria,18.49,EUR,20.58
+BF,Burkina Faso,18.49,EUR,20.58
+CY,Cyprus,18.49,EUR,20.58
+IS,Iceland,18.49,EUR,20.58
 SK,Slovakia,18.49,EUR,20.58
-LV,Latvia,18.49,EUR,20.58
+RS,Serbia,18.49,EUR,20.58
+PT,Portugal,18.49,EUR,20.58
 NE,Niger,18.49,EUR,20.58
 ME,Montenegro,18.49,EUR,20.58
-MT,Malta,18.49,EUR,20.58
+LV,Latvia,18.49,EUR,20.58
+LT,Lithuania,18.49,EUR,20.58
+LU,Luxembourg,18.49,EUR,20.58
 SI,Slovenia,18.49,EUR,20.58
-RS,Serbia,18.49,EUR,20.58
-NL,Netherlands,18.49,EUR,20.58
-PT,Portugal,18.49,EUR,20.58
+BA,Bosnia and Herzegovina,18.49,EUR,20.58
+BE,Belgium,18.49,EUR,20.58
 MA,Morocco,203.99,MAD,20.72
 NO,Norway,205.0,NOK,21.52
 SE,Sweden,225.0,SEK,22.4

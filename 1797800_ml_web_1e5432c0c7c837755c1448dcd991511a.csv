@@ -1,23 +1,67 @@
 code,country,item_price,item_currency,item_price_usd
+ID,Indonesia,146000.0,IDR,8.12
+IN,India,849.0,INR,8.92
 VN,Vietnam,265000.0,VND,10.23
+BR,Brazil,55.9,BRL,11.09
+KZ,Kazakhstan,5790.0,KZT,12.82
 PH,Philippines,849.0,PHP,13.49
 MY,Malaysia,55.9,MYR,13.69
 MX,Mexico,260.0,MXN,14.05
+CL,Chile,14390.0,CLP,14.59
 PE,Peru,55.9,PEN,16.24
 TH,Thailand,560.0,THB,16.62
+CO,Colombia,55500.0,COP,17.34
 ZA,South Africa,289.99,ZAR,17.49
+KR,"Korea, Republic of",32500.0,KRW,24.25
+JP,Japan,4080.0,JPY,25.69
 NZ,New Zealand,48.49,NZD,27.09
+CA,Canada,38.99,CAD,27.33
+AE,United Arab Emirates,105.99,AED,28.86
 US,United States of America,28.99,USD,28.99
+BG,Bulgaria,28.99,USD,28.99
+HK,Hong Kong,228.0,HKD,29.05
 QA,Qatar,105.99,QAR,29.08
+JO,Jordan,20.65,JOD,29.13
 TW,Taiwan,950.0,TWD,29.59
 RO,Romania,145.99,RON,30.41
+AU,Australia,45.49,AUD,31.72
+CZ,Czech Republic,729.0,CZK,33.28
+IL,Israel,102.9,ILS,33.3
+CH,Switzerland,27.95,CHF,33.37
 SG,Singapore,42.98,SGD,33.43
-SI,Slovenia,31.99,EUR,35.6
-NE,Niger,31.99,EUR,35.6
+MA,Morocco,347.99,MAD,35.34
+BJ,Benin,31.99,EUR,35.6
 NL,Netherlands,31.99,EUR,35.6
-PT,Portugal,31.99,EUR,35.6
-SK,Slovakia,31.99,EUR,35.6
+NE,Niger,31.99,EUR,35.6
+ME,Montenegro,31.99,EUR,35.6
+IE,Ireland,31.99,EUR,35.6
+GR,Greece,31.99,EUR,35.6
+GA,Gabon,31.99,EUR,35.6
+HR,Croatia,31.99,EUR,35.6
+GW,Guinea-Bissau,31.99,EUR,35.6
+FR,France,31.99,EUR,35.6
+FI,Finland,31.99,EUR,35.6
+ES,Spain,31.99,EUR,35.6
+EE,Estonia,31.99,EUR,35.6
+AT,Austria,31.99,EUR,35.6
+BF,Burkina Faso,31.99,EUR,35.6
+CY,Cyprus,31.99,EUR,35.6
+DE,Germany,31.99,EUR,35.6
+IS,Iceland,31.99,EUR,35.6
 RS,Serbia,31.99,EUR,35.6
+PT,Portugal,31.99,EUR,35.6
+MT,Malta,31.99,EUR,35.6
+LV,Latvia,31.99,EUR,35.6
+IT,Italy,31.99,EUR,35.6
+LT,Lithuania,31.99,EUR,35.6
+LU,Luxembourg,31.99,EUR,35.6
+SK,Slovakia,31.99,EUR,35.6
+SI,Slovenia,31.99,EUR,35.6
+BE,Belgium,31.99,EUR,35.6
+BA,Bosnia and Herzegovina,31.99,EUR,35.6
 PL,Poland,145.99,PLN,37.19
+GB,United Kingdom,28.99,GBP,38.28
 NO,Norway,365.0,NOK,38.31
 SE,Sweden,385.0,SEK,38.33
+DK,Denmark,260.0,DKK,38.71
+HU,Hungary,14490.0,HUF,44.32
