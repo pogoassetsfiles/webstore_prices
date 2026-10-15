@@ -1,0 +1,13 @@
+code,country,item_price,item_currency,item_price_usd
+VN,Vietnam,36000.0,VND,1.39
+TH,Thailand,75.0,THB,2.23
+ZA,South Africa,39.99,ZAR,2.41
+TW,Taiwan,120.0,TWD,3.74
+US,United States of America,3.99,USD,3.99
+QA,Qatar,14.99,QAR,4.11
+RO,Romania,19.99,RON,4.16
+SG,Singapore,5.98,SGD,4.65
+RS,Serbia,4.49,EUR,5.0
+SK,Slovakia,4.49,EUR,5.0
+SI,Slovenia,4.49,EUR,5.0
+SE,Sweden,55.0,SEK,5.48
