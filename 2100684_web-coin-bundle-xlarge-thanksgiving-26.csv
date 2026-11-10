@@ -1,0 +1,67 @@
+code,country,item_price,item_currency,item_price_usd
+ID,Indonesia,505000.0,IDR,27.97
+IN,India,2899.0,INR,30.98
+BR,Brazil,191.9,BRL,34.47
+VN,Vietnam,909000.0,VND,35.51
+KZ,Kazakhstan,20000.0,KZT,44.79
+PH,Philippines,2950.0,PHP,46.86
+MY,Malaysia,191.9,MYR,47.31
+MX,Mexico,899.0,MXN,48.06
+CL,Chile,49490.0,CLP,50.88
+PE,Peru,191.9,PEN,56.3
+TH,Thailand,1920.0,THB,57.23
+CO,Colombia,191900.0,COP,58.4
+ZA,South Africa,999.99,ZAR,60.75
+KR,"Korea, Republic of",111000.0,KRW,82.71
+JP,Japan,14000.0,JPY,88.32
+TW,Taiwan,2990.0,TWD,90.7
+NZ,New Zealand,169.99,NZD,95.4
+CA,Canada,139.99,CAD,98.78
+BG,Bulgaria,99.99,USD,99.99
+US,United States of America,99.99,USD,99.99
+JO,Jordan,71.0,JOD,100.14
+HK,Hong Kong,788.0,HKD,100.45
+AE,United Arab Emirates,369.99,AED,100.75
+QA,Qatar,369.99,QAR,101.49
+MA,Morocco,999.99,MAD,102.51
+RO,Romania,499.99,RON,104.69
+IL,Israel,349.9,ILS,109.86
+AU,Australia,159.99,AUD,109.92
+CZ,Czech Republic,2490.0,CZK,114.4
+SG,Singapore,148.98,SGD,116.33
+CH,Switzerland,100.0,CHF,121.52
+BJ,Benin,109.99,EUR,123.04
+NL,Netherlands,109.99,EUR,123.04
+NE,Niger,109.99,EUR,123.04
+ME,Montenegro,109.99,EUR,123.04
+IE,Ireland,109.99,EUR,123.04
+GR,Greece,109.99,EUR,123.04
+GA,Gabon,109.99,EUR,123.04
+HR,Croatia,109.99,EUR,123.04
+GW,Guinea-Bissau,109.99,EUR,123.04
+FR,France,109.99,EUR,123.04
+FI,Finland,109.99,EUR,123.04
+ES,Spain,109.99,EUR,123.04
+EE,Estonia,109.99,EUR,123.04
+AT,Austria,109.99,EUR,123.04
+BF,Burkina Faso,109.99,EUR,123.04
+CY,Cyprus,109.99,EUR,123.04
+DE,Germany,109.99,EUR,123.04
+IS,Iceland,109.99,EUR,123.04
+RS,Serbia,109.99,EUR,123.04
+PT,Portugal,109.99,EUR,123.04
+MT,Malta,109.99,EUR,123.04
+LV,Latvia,109.99,EUR,123.04
+IT,Italy,109.99,EUR,123.04
+LT,Lithuania,109.99,EUR,123.04
+LU,Luxembourg,109.99,EUR,123.04
+SK,Slovakia,109.99,EUR,123.04
+SI,Slovenia,109.99,EUR,123.04
+BE,Belgium,109.99,EUR,123.04
+BA,Bosnia and Herzegovina,109.99,EUR,123.04
+PL,Poland,499.99,PLN,127.44
+GB,United Kingdom,99.99,GBP,133.91
+DK,Denmark,899.0,DKK,134.53
+NO,Norway,1290.0,NOK,135.64
+SE,Sweden,1395.0,SEK,141.78
+HU,Hungary,49990.0,HUF,153.7
