@@ -18,18 +18,18 @@ TW,Taiwan,60.0,TWD,1.82
 NZ,New Zealand,3.49,NZD,1.92
 CA,Canada,2.79,CAD,1.95
 JO,Jordan,1.4,JOD,1.97
+US,United States of America,1.99,USD,1.99
 AU,Australia,2.99,AUD,1.99
 BG,Bulgaria,1.99,USD,1.99
 MA,Morocco,19.99,MAD,2.0
-HK,Hong Kong,16.0,HKD,2.04
 AE,United Arab Emirates,7.49,AED,2.04
-RO,Romania,9.99,RON,2.05
+HK,Hong Kong,16.0,HKD,2.04
 QA,Qatar,7.49,QAR,2.05
+RO,Romania,9.99,RON,2.05
 IL,Israel,6.9,ILS,2.07
 CZ,Czech Republic,49.0,CZK,2.2
 SG,Singapore,2.98,SGD,2.31
 CH,Switzerland,2.0,CHF,2.38
-BE,Belgium,2.19,EUR,2.41
 BJ,Benin,2.19,EUR,2.41
 NL,Netherlands,2.19,EUR,2.41
 NE,Niger,2.19,EUR,2.41
@@ -57,10 +57,11 @@ LT,Lithuania,2.19,EUR,2.41
 LU,Luxembourg,2.19,EUR,2.41
 SK,Slovakia,2.19,EUR,2.41
 SI,Slovenia,2.19,EUR,2.41
+BE,Belgium,2.19,EUR,2.41
 BA,Bosnia and Herzegovina,2.19,EUR,2.41
 PL,Poland,9.99,PLN,2.47
 NO,Norway,25.0,NOK,2.57
 GB,United Kingdom,1.99,GBP,2.61
-SE,Sweden,27.0,SEK,2.65
 DK,Denmark,18.0,DKK,2.65
+SE,Sweden,27.0,SEK,2.65
 HU,Hungary,999.0,HUF,2.94
